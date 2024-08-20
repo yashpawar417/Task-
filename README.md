@@ -37,11 +37,11 @@ Commands
 
 8. Moving WordPress to the server's root folder
 
-> sudo mv wordpress/* .**
+> sudo mv wordpress/* .
 
 9. Changing the owner of the Wordpress files
 
-> **sudo chown -R www-data:www-data *
+> sudo chown -R www-data:www-data *
 
 10. Securing MySQL installation
 
